@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://xaude.github.io'
 languageCode = 'en-us'
 title = 'Learning Clientside Hacking'
 theme = 'hugo-book'
